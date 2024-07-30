@@ -24,7 +24,7 @@ const projects = [
     name: 'BOT Whatsapp Multi Function',
     description:
       'Creating a Multi-Function WhatsApp BOT,using Librady Baileys',
-    stack: 'NodeJS',
+    stack: ['NodeJS'],
     sourceCode: 'https://github.com/Kira-Master/WhatsappBot-Zexxa',
     livePreview: 'https://github.com/Kira-Master/WhatsappBot-Zexxa',
   },
